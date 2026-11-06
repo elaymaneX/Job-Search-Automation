@@ -1,4 +1,5 @@
 # AI Job Search Automation
+<img width="2478" height="658" alt="image" src="https://github.com/user-attachments/assets/5ab9e25e-b604-4973-93ae-5dec010dbbb9" />
 
 An n8n workflow that turns a daily job search into a ranked shortlist with practical CV adaptation reports.
 
